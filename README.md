@@ -1,11 +1,15 @@
 -<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=Hi+%F0%9F%91%8B+I'm+Nikhil+Khandelwal" alt="Typing SVG" />
     </p>
+    
+
+- 🌱 I’m currently learning System Design, DevOps, ML & DSA
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
+- 👯 I’m looking to collaborate on open-source projects
+- 📫 How to reach me: khandelwalnikhil006@gmail.com
 
 
 ### Skills 🧰
@@ -16,6 +20,16 @@
 </p>
 
 
+
+
+
+
+## 📫 Contact Me
+- LinkedIn: [nikhil-khandelwal006](https://www.linkedin.com/in/nikhil-khandelwal006/)
+- Email: [khandelwalnikhil006@gmail.com](mailto:khandelwalnikhil006@gmail.com)
+---
+
+*Feel free to reach out if you want to discuss technology, collaboration, or anything else!*
 
 
 
