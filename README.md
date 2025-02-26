@@ -2,12 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=Hi+%F0%9F%91%8B+I'm+Nikhil+Khandelwal" alt="Typing SVG" />
 </p>
 
-- 🌱 I’m currently learning System Design, DevOps, ML & DSA  
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎  
-- 🌱 Trying to become an expert in Fullstack development ❤  
-- 📰 Reading tech documentation whenever possible.  
-- 👯 I’m looking to collaborate on open-source projects  
-- 📫 How to reach me: khandelwalnikhil006@gmail.com  
+## About Me  
+
+I'm a **Software Engineer** with full-stack expertise and a strong passion for **backend development**. I enjoy solving complex problems, optimizing system performance, and building scalable applications.  
+Beyond coding, I love exploring new technologies and writing **tech blogs** to simplify intricate concepts—helping others learn while deepening my own understanding.  
+
+- 🌱 **Currently Learning:** System Design, DevOps, ML & DSA  
+- 👯 **Looking to Collaborate On:** Open-source projects  
+- 📫 **How to Reach Me:** khandelwalnikhil006@gmail.com   
+
+
 
 ### Skills 🧰  
 
