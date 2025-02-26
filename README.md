@@ -33,10 +33,14 @@
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" height="50" alt="Photoshop" /></a>&nbsp;
 </p>  
 
+
+
 ---
 
-
 📚 **Latest Articles**  
-Check out my latest articles on Substack:  
-- [Substack Profile](https://substack.com/@nikhilkhandelwal)  
+---  
+- Check out my latest articles on Substack:  
+
+   [Substack Profile](https://substack.com/@nikhilkhandelwal)  
+
  
