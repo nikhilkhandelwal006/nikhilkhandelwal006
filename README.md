@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning System Design, DevOps, ML & DSA  
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎  
 - 🌱 Trying to become an expert in Fullstack development ❤  
-- 💻 I love exploring new tech stacks and building cool stuff.  
 - 📰 Reading tech documentation whenever possible.  
 - 👯 I’m looking to collaborate on open-source projects  
 - 📫 How to reach me: khandelwalnikhil006@gmail.com  
@@ -39,8 +38,13 @@
 
 📚 **Latest Articles**  
 ---  
-- Check out my latest articles on Substack:  
+   Check out my latest articles on Substack:  
 
-   [Substack Profile](https://substack.com/@nikhilkhandelwal)  
+- [Substack Profile](https://substack.com/@nikhilkhandelwal)  
 
- 
+
+📫 **Contact Me**  
+---  
+- **LinkedIn:** [nikhilkhandelwal006](https://www.linkedin.com/in/nikhil-khandelwal006/)  
+- **Email:** khandelwalnikhil006@gmail.com  
+
