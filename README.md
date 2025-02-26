@@ -38,6 +38,5 @@
 
 📚 **Latest Articles**  
 Check out my latest articles on Substack:  
-
-[Substack Profile](https://substack.com/@nikhilkhandelwal)  
+- [Substack Profile](https://substack.com/@nikhilkhandelwal)  
  
