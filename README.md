@@ -2,16 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=Hi+%F0%9F%91%8B+I'm+Nikhil+Khandelwal" alt="Typing SVG" />
 </p>
 
-- 🌱 I’m currently learning System Design, DevOps, ML & DSA
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: khandelwalnikhil006@gmail.com
+- 🌱 I’m currently learning System Design, DevOps, ML & DSA  
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎  
+- 🌱 Trying to become an expert in Fullstack development ❤  
+- 💻 I love exploring new tech stacks and building cool stuff.  
+- 📰 Reading tech documentation whenever possible.  
+- 👯 I’m looking to collaborate on open-source projects  
+- 📫 How to reach me: khandelwalnikhil006@gmail.com  
 
-
-### Skills 🧰
+### Skills 🧰  
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>&nbsp;&nbsp;&nbsp;
@@ -32,4 +31,13 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="AWS" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" height="50" alt="Photoshop" /></a>&nbsp;
-</p>
+</p>  
+
+---
+
+
+📚 **Latest Articles**  
+Check out my latest articles on Substack:  
+
+[Substack Profile](https://substack.com/@nikhilkhandelwal)  
+ 
