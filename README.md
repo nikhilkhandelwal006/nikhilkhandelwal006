@@ -41,11 +41,6 @@ Beyond coding, I love exploring new technologies and writing **tech blogs** to s
 
 ---
 
-📚 **Latest Articles**  
----  
-   Check out my latest articles on Substack:  
-
-- [Substack Profile](https://substack.com/@nikhilkhandelwal)  
 
 
 📫 **Contact Me**  
